@@ -1,2 +1,2 @@
 # C-project
-guess the random number 
+The guess random number 
